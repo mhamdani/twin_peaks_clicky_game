@@ -1,22 +1,33 @@
 .navbar {
-    /* height: 50px; */
     display: flex;
     justify-content: space-evenly;
+    /* margin-top: 30px; */
+    /* position:fixed;
+    width: 100%;
+    top: 0;
+    overflow: hidden; */
 }
 
 h1, h2, h3 {
     margin-top: 20px;
     font-family: 'Carrois Gothic SC', sans-serif;
+    color: silver;
 }
 
 #clicky {
   margin-top: 5px;
+  color: silver;
 }
 
 #twin_peaks {
-  color: brown;
+  color: yellowgreen;
   border-color: green;
   border-style: solid 10px;
   padding-right: 5px;
   font-size: 30px;
+}
+
+span {
+  color: yellowgreen;
+  font-weight:bolder;
 }
