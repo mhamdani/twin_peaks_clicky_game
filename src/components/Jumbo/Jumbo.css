@@ -1,0 +1,15 @@
+.jumbotron {
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Federo', sans-serif;
+    font-family: 'Tenali Ramakrishna', sans-serif;
+  }
+
+#hint {
+  font-size: 13px;
+  color: slategrey;
+}

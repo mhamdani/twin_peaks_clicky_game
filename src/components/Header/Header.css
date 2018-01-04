@@ -1,0 +1,22 @@
+.navbar {
+    /* height: 50px; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h1, h2, h3 {
+    margin-top: 20px;
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+#clicky {
+  margin-top: 5px;
+}
+
+#twin_peaks {
+  color: brown;
+  border-color: green;
+  border-style: solid 10px;
+  padding-right: 5px;
+  font-size: 30px;
+}
