@@ -69,24 +69,8 @@ shuffle = (people) => {
     </div>
 
   );
-    // const peopleList = people.map((person, i) =>
-    // <ul>
-    // <li key={'person_' + i}>
-    // <button className="imgButtons">
-    // <img src={person} height="200px" weight="163"/>
-    // </button>
-    // </li>
-    // </ul>
-    // );
-    // return (
-    //   <div>
-    //   <ul>
-    //   {peopleList}
-    //   </ul>
-    //   </div>
-    // );
   }
 };
 
-ReactDOM.render(<PeopleButton />, document.getElementById('app')
+ReactDOM.render(<PeopleButton />, document.getElementById('root')
 );
