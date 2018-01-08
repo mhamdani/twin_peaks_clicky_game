@@ -11,12 +11,12 @@
 h1, h2, h3 {
     margin-top: 20px;
     font-family: 'Carrois Gothic SC', sans-serif;
-    color: silver;
+    color: black;
 }
 
 #clicky {
   margin-top: 5px;
-  color: silver;
+  color: lightpink;
 }
 
 #twin_peaks {
@@ -28,6 +28,10 @@ h1, h2, h3 {
 }
 
 span {
-  color: yellowgreen;
+  color: red;
   font-weight:bolder;
+}
+
+h1, h2 {
+  color: yellowgreen;
 }
