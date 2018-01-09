@@ -16,16 +16,16 @@ body {
   }
 
 #hint {
-  font-size: 18px;
-  color: lemonchiffon;
-  text-shadow: 2px 2px saddlebrown;
+  font-size: 20px;
+  color: #e6ffff;
+  text-shadow: 2px 3px #282828;
 }
 
 .text-center {
-  font-size: 18px;
-  color: lemonchiffon;
+  font-size: 20px;
+  color: #e6ffff;
   /* margin-left: -140px; */
-  text-shadow: 2px 2px saddlebrown;
+  text-shadow: 2px 3px #282828;
 }
 
 h1 {
