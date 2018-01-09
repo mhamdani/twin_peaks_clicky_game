@@ -2,61 +2,61 @@
     {
       "id": 1,
       "name": "andy",
-      "image": "/images/andy.png"
+      "image": "/assets/images/andy.png"
     },
     {
       "id": 2,
       "name": "audrey",
-      "image": "/images/audrey.png"
+      "image": "/assets/images/audrey.png"
     },
     {
       "id": 3,
       "name": "bobby",
-      "image": "/images/bobby.png"
+      "image": "/assets/images/bobby.png"
     },
     {
       "id": 4,
       "name": "dale",
-      "image": "/images/dale.png"
+      "image": "/assets/images/dale.png"
     },
     {
       "id": 5,
       "name": "ed",
-      "image": "/images/ed.png"
+      "image": "/assets/images/ed.png"
     },
     {
       "id": 6,
       "name": "james",
-      "image": "/images/james.png"
+      "image": "/assets/images/james.png"
     },
     {
       "id": 7,
       "name": "josie",
-      "image": "/images/josie.png"
+      "image": "/assets/images/josie.png"
     },
     {
       "id": 8,
       "name": "laura",
-      "image": "/images/laura.png"
+      "image": "/assets/images/laura.png"
     },
     {
       "id": 9,
       "name": "leland",
-      "image": "/images/leland.png"
+      "image": "/assets/images/leland.png"
     },
     {
       "id": 10,
       "name": "lucy",
-      "image": "/images/lucy.png"
+      "image": "/assets/images/lucy.png"
     },
     {
       "id": 11,
       "name": "donna",
-      "image": "/images/donna.png"
+      "image": "/assets/images/donna.png"
     },
     {
       "id": 12,
       "name": "shelly",
-      "image": "/images/shelly.png"
+      "image": "/assets/images/shelly.png"
     }
   ]
