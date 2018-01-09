@@ -1,16 +1,20 @@
 .container {
+  all:unset;
   display: flex;
   flex-wrap: wrap;
   min-height: 80%;
   width: 80%;
   margin: 0 auto;
+  margin-top: 80px;
   justify-content: center;
 }
 
 img {
+  all:unset;
   position: relative;
   top: -3rem;
-  width: 100%;
+  width: 175px;
+  height:174px;
   margin-bottom: 5px;
 }
 
@@ -25,6 +29,7 @@ img {
 }
 
 .card {
+  all:unset;
   height: 175px;
   width: 175px;
   margin: 5px;

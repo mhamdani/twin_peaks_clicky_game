@@ -1,6 +1,12 @@
 .jumbotron {
-    margin-top: 10px;
-    margin-bottom: 100px;
+    background-color: rgba(76, 175, 80, 0.0);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 0px;
+    margin-bottom: -2px;
+    justify-content: space-evenly;
 }
 
 body {
@@ -10,10 +16,19 @@ body {
   }
 
 #hint {
-  font-size: 13px;
-  color: springgreen;
+  font-size: 18px;
+  color: lemonchiffon;
+  text-shadow: 2px 2px saddlebrown;
 }
 
 .text-center {
-  color: lightpink;
+  font-size: 18px;
+  color: lemonchiffon;
+  /* margin-left: -140px; */
+  text-shadow: 2px 2px saddlebrown;
+}
+
+h1 {
+  /* margin-left: -300px; */
+  color: honeydew;
 }
