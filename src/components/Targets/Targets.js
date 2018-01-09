@@ -8,7 +8,9 @@ const Targets = props => (
   <div onClick={() => props.alreadySelected(props.id)} className="card">
     <div className="img-container target">
       <Overdrive id={props.id}>
-        <img alt={props.name} src={props.image} />
+      <div role="img"
+        aria-label="click item"
+        style={{ backgroundImage: 'url("${props.image}")' }} />
       </Overdrive>
     </div>
   </div>
