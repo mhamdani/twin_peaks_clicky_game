@@ -2,61 +2,61 @@
     {
       "id": 1,
       "name": "andy",
-      "image": "/assets/images/andy.png"
+      "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/9/90/Andy_002.jpg/revision/latest?cb=20100422235317"
     },
     {
       "id": 2,
       "name": "audrey",
-      "image": "/assets/images/audrey.png"
+      "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/9/98/AudreyNew.jpg/revision/latest/scale-to-width-down/350?cb=20161026025355"
     },
     {
       "id": 3,
       "name": "bobby",
-      "image": "/assets/images/bobby.png"
+      "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/9/98/BobbyHiRes.jpg/revision/latest/scale-to-width-down/350?cb=20161101195815"
     },
     {
       "id": 4,
       "name": "dale",
-      "image": "/assets/images/dale.png"
+      "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/3/3a/Cooper_005.jpg/revision/latest/scale-to-width-down/350?cb=20170328023501"
     },
     {
       "id": 5,
       "name": "ed",
-      "image": "/assets/images/ed.png"
+      "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/3/3c/BigEdNewPic.jpg/revision/latest/scale-to-width-down/350?cb=20170524152240"
     },
     {
       "id": 6,
       "name": "james",
-      "image": "/assets/images/james.png"
+      "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/6/66/Jamesnew.jpg/revision/latest/scale-to-width-down/350?cb=20161026024503"
     },
     {
       "id": 7,
       "name": "josie",
-      "image": "/assets/images/josie.png"
+      "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/8/8b/JosieNew.jpg/revision/latest?cb=20161026022344"
     },
     {
       "id": 8,
       "name": "laura",
-      "image": "/assets/images/laura.png"
+      "image": "http://vignette1.wikia.nocookie.net/twinpeaks/images/e/ef/Laura_Palmer%2C_the_Queen_Of_Hearts.jpg/revision/latest?cb=20111030035926"
     },
     {
       "id": 9,
       "name": "leland",
-      "image": "/assets/images/leland.png"
+      "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/c/cd/LelandPalmer.jpg/revision/latest/scale-to-width-down/350?cb=20160816065237"
     },
     {
       "id": 10,
       "name": "lucy",
-      "image": "/assets/images/lucy.png"
+      "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/4/47/LucyNewAgain.jpg/revision/latest/scale-to-width-down/350?cb=20161026023511"
     },
     {
       "id": 11,
       "name": "donna",
-      "image": "/assets/images/donna.png"
+      "image": "https://piximus.net/media/10658/twin-peaks-star-lara-flynn-boyle-aging-timeline-1.jpg"
     },
     {
       "id": 12,
       "name": "shelly",
-      "image": "/assets/images/shelly.png"
+      "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/b/b5/ShellyNewPhoto.jpg/revision/latest/scale-to-width-down/350?cb=20161103130329"
     }
   ]
